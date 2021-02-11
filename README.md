@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on:
   - Ishiro, a tracking application for animes (`Typescript`, `React Native`, `GraphQL`)
-
 - 👯 I’m looking to collaborate on React, React Native & GraphQL
 - 📫 How to reach me: **[portfolio](http://alexistalon.com)** or **[malt profile](https://www.malt.fr/profile/alexistalon)**
 
