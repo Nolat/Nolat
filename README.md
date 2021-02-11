@@ -1,4 +1,4 @@
-### Hi there! I'm Alexis [ 👋](http://alexistalon.com/)
+### Hi there! I'm Alexis [👋🏻](http://alexistalon.com/)
 #### I'm a 22 years old full-stack web developer working as freelance in France 🇫🇷.
 
 - 🔭 I’m currently working on:
